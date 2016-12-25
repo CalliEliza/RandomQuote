@@ -1,0 +1,62 @@
+body {
+    background-color: #fff;
+    background-size: cover;
+    text-align: center;
+    padding: 2em;
+    color: #7B1FA2;
+}
+
+.text-primary {
+    color: #7B1FA2;
+}
+
+button.qt {
+    margin: 2em;
+    border: 1px solid white;
+    background-color: transparent;
+}
+
+button.qt:hover {
+    background-color: rgba(207, 79, 88, .3);
+    color: #e6dfdd;
+}
+
+.qt:active {
+    margin: 2em;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+}
+
+button.qt#newqt:visited {
+    margin: 2em;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+}
+
+button.social {
+    background-color: #D32F2F;
+    border: 1px solid #cf4f57;
+    border-radius: .3em;
+    color: #fff;
+}
+
+button.social:hover {
+    background-color: #cf4f57;
+}
+
+.box {
+    margin: 5em 15em;
+    word-wrap: break-word;
+    background-color: #0097A7;
+    border-radius: 1em;
+    -webkit-box-shadow: 0 8px 6px -6px #616160;
+    -moz-box-shadow: 0 8px 6px -6px #616161;
+    box-shadow: 0 8px 6px -6px #616161;
+}
+
+#qod-quote {
+    color: #455A64;
+    font-size: x-large;
+}
